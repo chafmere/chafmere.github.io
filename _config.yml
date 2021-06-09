@@ -72,6 +72,6 @@ defaults:
       layout: defaults/list
 
 
-=======
-theme: jekyll-theme-cayman
->>>>>>> 80426e20a4810229c7695a37d831a045097a4070
+#=======
+#theme: jekyll-theme-cayman
+#>>>>>>> 80426e20a4810229c7695a37d831a045097a4070
