@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Godot FPS Template on Chaff Games Docs</title>
+    <link>https://chafmere.github.io/docs/fpstemplate/</link>
+    <description>Recent content in Godot FPS Template on Chaff Games Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://chafmere.github.io/docs/fpstemplate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Table Of Contents</title>
+      <link>https://chafmere.github.io/docs/fpstemplate/table_of_contents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chafmere.github.io/docs/fpstemplate/table_of_contents/</guid>
+      <description>Welcome to Godot&#39;s First Person Shooter Template.&#xA;This template puts a lot of emphasis on the &amp;quot;S&amp;quot; in FPS. While most other FPS templates seem to focus more on movement and feel, this template does not have a lot of fancy juice. However, it aims to be a functional and practical template that will allow you to quickly create an FPS game in Godot. This will enable you to prototype quickly without having to worry about setting up the shooting mechanics, which players have come to expect in FPS games.</description>
+    </item>
+    <item>
+      <title>Creating a Weapon</title>
+      <link>https://chafmere.github.io/docs/fpstemplate/creating_a_new_weapon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chafmere.github.io/docs/fpstemplate/creating_a_new_weapon/</guid>
+      <description>Back to Table of Contents&#xA;How to Create a Weapon The weapons are all controlled by the node Weapon Manager. It is a child of Main Camera.&#xA;Animations First, create the animation in Blender or in Godot itself. The FPS Template cannot create animations. It comes shipped with some basic example animations.&#xA;All animations should be in a single Animation Player and added to the export variable Animation_Player.&#xA;Create A Resource Once you have your animations, the next thing you need to add is a Weapon Resource.</description>
+    </item>
+    <item>
+      <title>Projectiles</title>
+      <link>https://chafmere.github.io/docs/fpstemplate/projectiles_to_load/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chafmere.github.io/docs/fpstemplate/projectiles_to_load/</guid>
+      <description>Back to Table of Contents&#xA;Not a Physical Projectile A Projectile to load is not a physical projectile.&#xA;It can be a rigid body if you want it to be. But what it actually is, is an object that is loaded when you press the fire button and is responsible for ray casting and detecting a hit. It can be either a hit scan weapon or it can be a &amp;quot;rigid body projectile&amp;quot;.</description>
+    </item>
+    <item>
+      <title>Creating Spray Profiles</title>
+      <link>https://chafmere.github.io/docs/fpstemplate/spray_profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chafmere.github.io/docs/fpstemplate/spray_profile/</guid>
+      <description>Back to Table of Contents&#xA;Add A Spray Profile To add a spray profile to your weapon, you can add it under weapon behavior.&#xA;Let&#39;s quickly go over how shooting works in the FPS template.&#xA;When you fire a weapon, the first thing it does is play the animation, reduce the ammo count, and notify the HUD that ammo has been used.&#xA;The next thing we do is load a projectile.</description>
+    </item>
+    <item>
+      <title>Picking up and Dropping Weapons</title>
+      <link>https://chafmere.github.io/docs/fpstemplate/weapon_drop__pick_ups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chafmere.github.io/docs/fpstemplate/weapon_drop__pick_ups/</guid>
+      <description>Back to Table of Contents&#xA;Weapon Pick Up Weapon_Pick_Up: Options for the rigid body to be picked up as a weapon&#xA;_weapon_name: String. Must match the weapon name in the Weapon Resource. _current_ammo: int. The amount of ammo that the weapon has available to be shot right away. Will override Weapon_Resource.Current_Ammo on pick up. _reserve_ammo: int. The amount of ammo that the weapon will have in reserve. Will override Weapon_Resource.Reserve_Ammo on pick up.</description>
+    </item>
+  </channel>
+</rss>
