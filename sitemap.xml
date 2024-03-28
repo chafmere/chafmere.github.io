@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://chafmere.github.io/tutorials/example/</loc>
+    <loc>http://localhost:1313/tutorials/example/</loc>
   </url><url>
-    <loc>https://chafmere.github.io/docs/fpstemplate/</loc>
+    <loc>http://localhost:1313/docs/fpstemplate/</loc>
   </url><url>
-    <loc>https://chafmere.github.io/docs/</loc>
+    <loc>http://localhost:1313/docs/</loc>
   </url><url>
-    <loc>https://chafmere.github.io/tutorials/</loc>
+    <loc>http://localhost:1313/tutorials/</loc>
   </url><url>
-    <loc>https://chafmere.github.io/docs/fpstemplate/table_of_contents/</loc>
+    <loc>http://localhost:1313/docs/fpstemplate/table_of_contents/</loc>
   </url><url>
-    <loc>https://chafmere.github.io/docs/fpstemplate/creating_a_new_weapon/</loc>
+    <loc>http://localhost:1313/docs/fpstemplate/creating_a_new_weapon/</loc>
   </url><url>
-    <loc>https://chafmere.github.io/docs/fpstemplate/projectiles_to_load/</loc>
+    <loc>http://localhost:1313/docs/fpstemplate/projectiles_to_load/</loc>
   </url><url>
-    <loc>https://chafmere.github.io/docs/fpstemplate/spray_profile/</loc>
+    <loc>http://localhost:1313/docs/fpstemplate/spray_profile/</loc>
   </url><url>
-    <loc>https://chafmere.github.io/docs/fpstemplate/weapon_drop__pick_ups/</loc>
+    <loc>http://localhost:1313/docs/fpstemplate/weapon_drop__pick_ups/</loc>
   </url><url>
-    <loc>https://chafmere.github.io/docs/fps_pro/</loc>
+    <loc>http://localhost:1313/docs/fps_pro/</loc>
   </url><url>
-    <loc>https://chafmere.github.io/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chafmere.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chafmere.github.io/blog/make_spray_patterns/</loc>
+    <loc>http://localhost:1313/blog/make_spray_patterns/</loc>
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chafmere.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://chafmere.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>https://chafmere.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
