@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Chaff Games Docs</title>
-    <link>https://chafmere.github.io/blog/</link>
+    <link>https://docs.chaffgames.com/blog/</link>
     <description>Recent content in Blog on Chaff Games Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://chafmere.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://docs.chaffgames.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making Spray Patterns</title>
-      <link>https://chafmere.github.io/blog/make_spray_patterns/</link>
+      <link>https://docs.chaffgames.com/blog/make_spray_patterns/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://chafmere.github.io/blog/make_spray_patterns/</guid>
+      <guid>https://docs.chaffgames.com/blog/make_spray_patterns/</guid>
       <description>When Making an FPS Game, the handling of weapon spray is a crucial aspect that can greatly impact gameplay. Some games use spray patterns as a skill-based mechanic, while others opt for a more random approach simply for immersion.&#xA;One of the most notable examples of a skill-based spray system is found in Counter-Strike, where players can memorize spray patterns to improve their accuracy. Other games like Valorant and Rainbow Six Siege also feature similar systems.</description>
     </item>
   </channel>
